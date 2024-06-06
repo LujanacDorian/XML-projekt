@@ -16,7 +16,7 @@
     
     <nav class="navbar navbar-expand-lg navbck fixed-top">
         <div class="container-fluid">
-            <h1><img src="img/f1white.svg" width="100px" height="50px"></h1>
+            <h1><a href="./index.php"><img src="img/f1white.svg" width="100px" height="50px"></a></h1>
             <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
@@ -27,9 +27,6 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-light" id="link-login" href="./login.php">Prijava</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-light" id="link-login" href="./about.html">O nama</a>
                     </li>
                 </ul>
             </div>
@@ -106,14 +103,16 @@
                 <p>Formula 1 <i class="fa-sharp fa-regular fa-copyright fa-2xs" style="color:white;"></i></p>
             </div>
             <div class="col-sm-4">
-                <div class="brand row text-center">
-                    <i class="fa-brands fa-instagram" style="color:white;"></i>
-                </div>
-                <div class="brand row text-center mt-3">
-                    <i class="fa-brands fa-facebook-f" style="color:white;"></i>
-                </div>
-                <div class="brand row text-center mt-3">
-                    <i class="fa-brands fa-x-twitter" style="color:white;"></i>
+                <div class="row">
+                    <div class="col-sm">
+                        <i class="fa-brands fa-instagram" style="color:white;"></i>
+                    </div>
+                    <div class="col-sm">
+                        <i class="fa-brands fa-facebook-f" style="color:white;"></i>
+                    </div>
+                    <div class="col-sm">
+                        <i class="fa-brands fa-x-twitter" style="color:white;"></i>
+                    </div>
                 </div>
             </div>
             <div class="col-sm-4 text-center">

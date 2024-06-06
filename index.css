@@ -18,7 +18,7 @@
 #link-login:hover,
 #link-login:active {
     background-color: #dd3f39;
-    text-decoration: underline;
+    text-decoration: none;
     padding: 15px;
 }
 
