@@ -1,0 +1,122 @@
+<drivers>
+    <driver id="1">
+        <firstName>Max</firstName>
+        <lastName>Verstappen</lastName>
+        <team>Red Bull Racing</team>
+        <No>1</No>
+    </driver>
+    <driver id="2">
+        <firstName>Sergio</firstName>
+        <lastName>Perez</lastName>
+        <team>Red Bull Racing</team>
+        <No>11</No>
+    </driver>
+    <driver id="3">
+        <firstName>Carlos</firstName>
+        <lastName>Sainz</lastName>
+        <team>Ferrari</team>
+        <No>55</No>
+    </driver>
+    <driver id="4">
+        <firstName>Charles</firstName>
+        <lastName>LeClerce</lastName>
+        <team>Ferrari</team>
+        <No>16</No>
+    </driver>
+    <driver id="5">
+        <firstName>Lando</firstName>
+        <lastName>Norris</lastName>
+        <team>McLaren</team>
+        <No>4</No> 
+    </driver>
+    <driver id="6">
+        <firstName>Oscar</firstName>
+        <lastName>Piastri</lastName>
+        <team>McLaren</team>
+        <No>81</No>
+    </driver>
+    <driver id="7">
+        <firstName>Lewis</firstName>
+        <lastName>Hamilton</lastName>
+        <team>Mercedes</team>
+        <No>44</No>
+    </driver>
+    <driver id="8">
+        <firstName>George</firstName>
+        <lastName>Russel</lastName>
+        <team>Mercedes</team>
+        <No>63</No>
+    </driver>
+    <driver id="9">
+        <firstName>Daniel</firstName>
+        <lastName>Ricciardo</lastName>
+        <team>Visa Cash App RB</team>
+        <No>3</No>
+    </driver>
+    <driver id="10">
+        <firstName>Yuki</firstName>
+        <lastName>Tsunoda</lastName>
+        <team>Visa Cash App RB</team>
+        <No>22</No>
+    </driver>
+    <driver id="11">
+        <firstName>Fernardo</firstName>
+        <lastName>Alonso</lastName>
+        <team>Aston Martin</team>
+        <No>14</No>
+    </driver>
+    <driver id="12">
+        <firstName>Lance</firstName>
+        <lastName>Stroll</lastName>
+        <team>Aston Martin</team>
+        <No>18</No>
+    </driver>
+    <driver id="13">
+        <firstName>Piere</firstName>
+        <lastName>Gasly</lastName>
+        <team>Alpine</team>
+        <No>10</No>
+    </driver>
+    <driver id="14">
+        <firstName>Esteban</firstName>
+        <lastName>Ocon</lastName>
+        <team>Alpine</team>
+        <No>31</No>
+    </driver>
+    <driver id="15">
+        <firstName>Valteri</firstName>
+        <lastName>Bottas</lastName>
+        <team>Kick Sauber</team>
+        <No>77</No>
+    </driver>
+    <driver id="16">
+        <firstName>Zhou</firstName>
+        <lastName>Guanyu</lastName>
+        <team>Kick Sauber</team>
+        <No>24</No>
+    </driver>
+    <driver id="17">
+        <firstName>Kevin</firstName>
+        <lastName>Magnusen</lastName>
+        <team>Haas</team>
+        <No>20</No>
+    </driver>
+    <driver id="18">
+        <firstName>Nico</firstName>
+        <lastName>Hulkenberg</lastName>
+        <team>Haas</team>
+        <No>27</No>
+    </driver>
+    <driver id="19">
+        <firstName>Alex</firstName>
+        <lastName>Albon</lastName>
+        <team>Williams</team>
+        <No>23</No>
+    </driver>
+    <driver id="20">
+        <firstName>Logan</firstName>
+        <lastName>Sargent</lastName>
+        <team>Williams</team>
+        <No>2</No>
+    </driver>
+</drivers>

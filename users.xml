@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+    <account>
+        <username>dorian1</username>
+        <password>lozinka123</password>
+        <ime>Dorian</ime>
+        <prezime>Lujanac</prezime>
+    </account>
+    <account>
+        <username>dorian2</username>
+        <password>123Lozinka</password>
+        <ime>Marko</ime>
+        <prezime>Markić</prezime>
+    </account>
+    <account>
+        <username>korisnik</username>
+        <password>Lozinka321</password>
+        <ime>Ivan</ime>
+        <prezime>Horvat</prezime>
+    </account>
+</accounts>
